@@ -1,4 +1,4 @@
-# Video-Games-Sales-Dashboard
+
 # 🎮 Level Up Analytics: Global Video Game Sales Insights Dashboard
 
 A dynamic, interactive data visualization tool built to explore video game sales data worldwide — focusing on platform and genre comparisons, regional performance, publisher dominance, and sales trends across decades.
