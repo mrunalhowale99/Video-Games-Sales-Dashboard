@@ -1,13 +1,13 @@
 
 # 🎮 Level Up Analytics: Global Video Game Sales Insights Dashboard
 
-A dynamic, interactive data visualization tool built to explore video game sales data worldwide — focusing on platform and genre comparisons, regional performance, publisher dominance, and sales trends across decades.
+A dynamic, interactive data visualization tool built to explore video game sales data worldwide focusing on platform and genre comparisons, regional performance, publisher dominance, and sales trends across decades.
 
 ---
 
 ## 📋 Short Description / Purpose
 
-The **Level Up Analytics Dashboard** is a visually engaging and analytical Power BI report designed to help users explore and compare thousands of video game titles across multiple platforms, genres, and global regions. The dashboard focuses on surfacing key sales trends — including year-over-year performance, regional dominance, and platform-level breakdowns — to reveal how the gaming industry has evolved over time.
+The **Level Up Analytics Dashboard** is a visually engaging and analytical Power BI report designed to help users explore and compare thousands of video game titles across multiple platforms, genres, and global regions. The dashboard focuses on surfacing key sales trends including year-over-year performance, regional dominance, and platform-level breakdowns to reveal how the gaming industry has evolved over time.
 
 This tool is intended for use by gaming industry analysts, market researchers, publishers, game developers, and data enthusiasts who seek to understand patterns and characteristics of video game sales globally.
 
@@ -55,7 +55,7 @@ The video game industry is one of the largest entertainment sectors in the world
 Key questions such as:
 - Which platforms generated the most global sales?
 - How have sales trended over the past three decades?
-- Which regions drive the most revenue — and for which genres?
+- Which regions drive the most revenue and for which genres?
 - Who are the most dominant publishers across different markets?
 
 …are difficult to answer quickly with raw spreadsheet data.
@@ -82,7 +82,7 @@ To deliver an interactive visual tool that:
 - Top publisher by global revenue
 
 **Regional Sales Breakdown (Donut / Map Chart)**
-Visualizes the split of total sales across North America, Europe, Japan, and the rest of the world — making it easy to identify which regions dominate overall consumption.
+Visualizes the split of total sales across North America, Europe, Japan, and the rest of the world, making it easy to identify which regions dominate overall consumption.
 
 **Sales Trend Over the Years (Line Chart)**
 A time-series line chart showing global and regional sales from the 1980s through the mid-2010s. Highlights the industry's growth peaks, platform generation cycles, and eventual sales decline as digital distribution replaced physical media.
@@ -91,7 +91,7 @@ A time-series line chart showing global and regional sales from the 1980s throug
 Ranks gaming platforms (PS2, DS, Wii, Xbox 360, PS3, etc.) by total global sales, helping identify the hardware generation leaders.
 
 **Sales by Genre (Horizontal Bar Chart)**
-Compares genres — Action, Sports, Shooter, RPG, Platform, and more — by total global revenue, segmented by region to reveal cultural preferences (e.g., RPGs in Japan vs. Sports titles in North America).
+Compares genres Action, Sports, Shooter, RPG, Platform, and more, by total global revenue, segmented by region to reveal cultural preferences (e.g., RPGs in Japan vs. Sports titles in North America).
 
 **Top Publishers (Ranked Table / Bar Chart)**
 Identifies the highest-grossing publishers (Nintendo, Electronic Arts, Activision, etc.) by total units sold globally.
@@ -110,19 +110,9 @@ Identifies the highest-grossing publishers (Nintendo, Electronic Arts, Activisio
 
 ## 📸 Dashboard Preview
 
-> *"C:\Users\Mrunal Howale\OneDrive\mrunal files\DASHBOARDS AND PROJECTS\Video Games sales dashboard screenshot.png"*
-> `![Dashboard Preview](./preview.png)`
-
 ---
+<img width="571" height="395" alt="Video Games sales dashboard screenshot" src="https://github.com/user-attachments/assets/bfcb63f6-211d-4f22-9560-f0f2824f7865" />
 
-## 🚀 How to Use
-
-1. Download or clone this repository.
-2. Open the `.pbit` file in **Power BI Desktop**.
-3. When prompted, load the `vgsales.csv` dataset (download from [Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales)).
-4. Interact with slicers to filter by platform, genre, publisher, year, or region.
-
----
 
 ## 👤 Author
 
