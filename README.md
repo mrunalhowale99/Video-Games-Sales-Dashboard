@@ -5,7 +5,7 @@ A dynamic, interactive data visualization tool built to explore video game sales
 
 ---
 
-## 📋 Short Description / Purpose
+##  Short Description / Purpose
 
 The **Level Up Analytics Dashboard** is a visually engaging and analytical Power BI report designed to help users explore and compare thousands of video game titles across multiple platforms, genres, and global regions. The dashboard focuses on surfacing key sales trends including year-over-year performance, regional dominance, and platform-level breakdowns to reveal how the gaming industry has evolved over time.
 
@@ -13,19 +13,19 @@ This tool is intended for use by gaming industry analysts, market researchers, p
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
-- 📊 **Power BI Desktop** — Main data visualization platform used for report creation and publishing.
-- 📂 **Power Query** — Data transformation and cleaning layer used to reshape, filter, and prepare the raw CSV data for modeling.
-- 🧠 **DAX (Data Analysis Expressions)** — Used for calculated measures, KPI cards, dynamic titles, and conditional logic across visuals.
-- 📝 **Data Modeling** — Relationships and calculated columns established within the data model to enable cross-filtering and aggregation across dimensions (platform, genre, publisher, year, region).
-- 📁 **File Format** — `.pbit` (Power BI Template) for portability and `.png` for dashboard previews.
+-  **Power BI Desktop** — Main data visualization platform used for report creation and publishing.
+-  **Power Query** — Data transformation and cleaning layer used to reshape, filter, and prepare the raw CSV data for modeling.
+-  **DAX (Data Analysis Expressions)** — Used for calculated measures, KPI cards, dynamic titles, and conditional logic across visuals.
+-  **Data Modeling** — Relationships and calculated columns established within the data model to enable cross-filtering and aggregation across dimensions (platform, genre, publisher, year, region).
+-  **File Format** — `.pbit` (Power BI Template) for portability and `.png` for dashboard previews.
 
 ---
 
-## 📂 Data Source
+##  Data Source
 
 **Source:** [Kaggle — Video Game Sales Dataset (vgsales)](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
@@ -46,9 +46,9 @@ The dataset contains sales figures for over **16,500 video games** across major 
 
 ---
 
-## ✨ Features / Highlights
+##  Features / Highlights
 
-### 🔴 Business Problem
+###  Business Problem
 
 The video game industry is one of the largest entertainment sectors in the world, yet understanding historical sales performance across platforms, regions, and genres remains fragmented. Publishers, analysts, and developers often lack an intuitive way to compare performance across markets.
 
@@ -62,7 +62,7 @@ Key questions such as:
 
 ---
 
-### 🎯 Goal of the Dashboard
+###  Goal of the Dashboard
 
 To deliver an interactive visual tool that:
 
@@ -72,7 +72,7 @@ To deliver an interactive visual tool that:
 
 ---
 
-### 🖥️ Walkthrough of Key Visuals
+###  Walkthrough of Key Visuals
 
 **Key KPIs (Top Section)**
 - Total games tracked
@@ -98,7 +98,7 @@ Identifies the highest-grossing publishers (Nintendo, Electronic Arts, Activisio
 
 ---
 
-### 💡 Business Impact & Insights
+###  Business Impact & Insights
 
 - **Market Strategy:** Publishers can identify which platforms and genres yield the highest returns in specific regions, informing localization and marketing decisions.
 - **Platform Investment:** Hardware manufacturers can benchmark their platform's commercial performance against competitors across different eras.
@@ -108,17 +108,17 @@ Identifies the highest-grossing publishers (Nintendo, Electronic Arts, Activisio
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 ---
 <img width="571" height="395" alt="Video Games sales dashboard screenshot" src="https://github.com/user-attachments/assets/bfcb63f6-211d-4f22-9560-f0f2824f7865" />
 
 
-## 👤 Author
+##  Author
 
 **Mrunal Howale**
 [GitHub](https://github.com/mrunal03howale) · [Email](mailto:mrunal03howale@gmail.com)
 
 ---
 
-*Built with ❤️ using Power BI*
+
